@@ -1,0 +1,1 @@
+# This was basically a wholesome a machine learning project.I tested different ML Algos on the dataset such as Linear Regression, Logistic Regression, Lasso Regression, Decision Tree, Random Forest and XG Boost.
